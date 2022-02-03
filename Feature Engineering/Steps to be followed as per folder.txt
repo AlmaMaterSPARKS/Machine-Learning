@@ -1,0 +1,10 @@
+
+Binning
+combining sparse class
+date time
+feature encoding
+feature scaling
+feature tools
+feature transformation
+feature encoding 
+missing values
